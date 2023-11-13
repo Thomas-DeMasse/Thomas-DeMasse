@@ -4,8 +4,8 @@
 
 ## 📖 About me
 
-* 💻 I'm an aspiring full stack web developer 
-* 📱 I constructed an app called FinApp with five of my classmates
+* 💻 I'm a full stack web developer 
+* 📱 I constructed an app called FinApp
 * 🎓 I'm a Computer Science student (graduating in May 2024)
 * 🌐 You can see my college work on my Github
 * 📺 What did the computer call his father? DATA!
